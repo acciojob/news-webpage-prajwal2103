@@ -23,6 +23,7 @@ body{
 	background-color:white;
 	justify-content:center;
 	align-items:center;
+	border-radius:5px;
 }
 .Article{
 	width:400px;
